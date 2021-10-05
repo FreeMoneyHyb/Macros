@@ -1,0 +1,13 @@
+//NOTE THIS MUST BE USED WITH CANE ATTACK
+//This is mouse controlled
+Log(Starting cane strafe turn on cane attack now)
+wait(1000ms)
+
+do()
+keydown(forward)
+keydown(right)
+keyup(left)
+wait(300ms)
+keyup(right)
+keydown(left)
+LOOP
