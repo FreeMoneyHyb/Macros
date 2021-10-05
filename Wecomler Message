@@ -1,0 +1,5 @@
+$${
+//bind to onplayer joined 
+echo(hey %&name% example example example)
+//may need to remove the & from name
+}$$
