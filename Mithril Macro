@@ -1,0 +1,7 @@
+$${
+// this is made for if you are trying to only mine a certin block
+
+if(%HTTID%="THE ID U WANT")
+key(attack)
+
+}$$
