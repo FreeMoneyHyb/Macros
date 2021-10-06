@@ -1,0 +1,5 @@
+$${
+//this is good if you are trying not to get caught with timer or somthin
+if(%BIOME%=the_End)
+DISCONNECT()
+}$$
